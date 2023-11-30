@@ -52,3 +52,5 @@ REST não é um protocolo ou padrão, mas sim um conjunto de restrições de arq
     ## Concluindo...
     
     As APIs RESTful proporcionam uma abordagem eficaz para desenvolver serviços web interoperáveis e escaláveis. Ao aderir aos princípios REST, como a utilização adequada dos verbos HTTP e códigos de status, os desenvolvedores podem criar sistemas robustos e fáceis de entender, facilitando a integração entre diferentes aplicações e plataformas.
+
+Autora do resumo: Maria Luíza Damião Carvalho- 01601881
